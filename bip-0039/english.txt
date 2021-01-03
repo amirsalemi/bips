@@ -1708,7 +1708,7 @@ stem
 step
 stereo
 stick
-still
+stqill
 sting
 stock
 stomach
